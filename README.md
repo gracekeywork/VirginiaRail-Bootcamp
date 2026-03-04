@@ -1,2 +1,2 @@
 # VirginiaRail-Bootcamp
-This repository is for going through the ML Bootcamp.
+In this project I am developing a machine learning classifier to automatically identify the Virginia Rail chick begging call (Rallus limicola) in audio collected by autonomous recording units. Manual scanning of long recordings is time consuming, so an automated detector would make it easier to process large datasets and identify periods when chicks are present. Because begging calls are linked to chick activity, the presence and timing of these calls can be used as an indicator of breeding success and to compare breeding activity across sites and dates.
