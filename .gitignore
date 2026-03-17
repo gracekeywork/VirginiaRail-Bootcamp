@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore audio files everywhere
+*.wav
+*.WAV
+
+# Ignore only raw audio folders (not entire training_data)
+training_data/audio/
+annotated_positive_audio/
+field_negatives/
+
 # Distribution / packaging
 .Python
 build/
